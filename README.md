@@ -13,6 +13,7 @@ This project is organized as follows:
 - Katia's Code: Katia's Multilayer Perceptron and LSTM training notebook
 - Preprocessing_Data.ipynb: data preprocessing/cleaning notebook
 - Figures.ipynb: figure making notebook
+- Datasets: the datasets used (raw and the output of Preprocessing_Data.ipynb)
 
 Thanks!
 
