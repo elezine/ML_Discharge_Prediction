@@ -12,8 +12,8 @@ This project is organized as follows:
 - Sarah's Code: Sarah's Random Forest training scripts
 - Katia's Code: Katia's Multilayer Perceptron and LSTM training notebook
 - Preprocessing_Data.ipynb: data preprocessing/cleaning notebook
-- Figures.ipynb: figure making notebook
-- Datasets: the datasets used (raw and the output of Preprocessing_Data.ipynb)
+- Making_Figures.ipynb: figure making notebook
+- Data: data used, including the cleaned data CSVs and any model outputs
 
 Thanks!
 
